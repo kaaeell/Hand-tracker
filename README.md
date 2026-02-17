@@ -95,9 +95,3 @@ Inside `hand_tracker.py` you can adjust these settings in the `mp_hands.Hands()`
 |---|---|
 | [OpenCV](https://opencv.org/) | Camera access and drawing |
 | [MediaPipe](https://mediapipe.dev/) | Hand landmark detection |
-
----
-
-## 📄 License
-
-MIT — do whatever you want with it.
